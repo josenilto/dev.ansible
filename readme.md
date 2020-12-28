@@ -1,8 +1,6 @@
 ### ℹ️ Ansible
 
-Provisionamento de software de código aberto, gerenciamento de configuração e implantação de aplicativo que habilita a infraestrutura como código.
-
-Cole seu YAML e clique em "Ir" - nós diremos se é válido ou não e forneceremos uma versão UTF-8 limpa e agradável dele. Otimizado para Ruby.
+Provisionamento de software de código aberto, gerenciamento de configuração e implantação de aplicativo que habilita a infraestrutura como código. Cole seu YAML e clique em "Ir" - nós diremos se é válido ou não e forneceremos uma versão UTF-8 limpa e agradável dele. Otimizado para Ruby.
 
 ----
 

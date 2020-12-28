@@ -7,4 +7,4 @@ Provisionamento de software de código aberto, gerenciamento de configuração e
 
 [Ansible]: https://docs.ansible.com/ansible/latest/index.html 
 
-| Documentação Ansible
+|  Documentação Ansible

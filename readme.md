@@ -4,8 +4,6 @@ Provisionamento de software de código aberto, gerenciamento de configuração e
 
 ----
 
-### ℹ️ GitHub Links
-
 [<img align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" />][ansible]
 [<img align="left" alt="josenilto | Twitter" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 

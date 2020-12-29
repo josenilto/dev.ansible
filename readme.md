@@ -6,6 +6,7 @@ Provisionamento de software de código aberto, gerenciamento de configuração e
 
 ### ➡️ Exemplo:
 
+```MD
 - hosts: all
   tasks:
     - name: 'Instala pacotes de dependencia do sistema operacional'
@@ -23,7 +24,8 @@ Provisionamento de software de código aberto, gerenciamento de configuração e
         - mysql-server-5.6
         - python-mysqldb
         - php5-mysql
-        
+```
+
 ----
 
 ### ➡️ Links:

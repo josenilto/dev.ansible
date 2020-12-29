@@ -4,7 +4,10 @@ Provisionamento de software de código aberto, gerenciamento de configuração e
 
 ----
 
-### ➡️ Exemplo:
+### 🔨 Exemplo:
+
+Aqui podemos ver a estrutura.
+
 
 ```MD
 - hosts: all

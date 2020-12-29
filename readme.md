@@ -10,14 +10,17 @@ Aqui podemos ver a estrutura.
 
 
 ```MD
-- hosts: all
-  tasks:
-    - name: 'Instala pacotes de dependencia do sistema operacional'
-      apt:
-        name: "{{ item }}" 
+--- 
+- 
+  hosts: all
+  tasks: 
+    - 
+      apt: 
+        name: "{{ item }}"
         state: lastest
-      become: yes
-      with_items:
+      become: true
+      name: "Instala pacotes de dependencia do sistema operacional"
+      with_items: 
         - php5
         - apache2
         - libapache2-mod-php5
